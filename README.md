@@ -4,15 +4,15 @@
 - 📫 You can connect with me on LinkedIn: www.linkedin.com/in/fmachani
 
 **Professional Competencies**
-•	Data Preprocessing
-•	Data Analysis
-•	Data Visualization
-•	Statistics
-•	Machine Learning
-•	Project Management
-•	Analytical problem-solving
-•	Presentation skills
-•	Good communication
+- Data Preprocessing
+- Data Analysis
+- Data Visualization
+- Statistics
+- Machine Learning
+- Project Management
+- Analytical problem-solving
+- Presentation skills
+- Good communication
 
 **Technical Skills**
 - Python
