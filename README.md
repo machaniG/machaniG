@@ -1,23 +1,12 @@
 - 👋 Hi, I a m Fridah
-- 👀 I am passionate about leveraging data analytics to uncover valuable insights, empowering evidence-based decisions that drive strategic impact and commercial value. 
+- 👀 I am passionate about leveraging advanced analytics, Machine learning and AI to empower evidence-based decisions that drive strategic impact and commercial value. 
 - 💞️ I am looking to collaborate on projects with like minded people
 - 📫 You can connect with me on LinkedIn: www.linkedin.com/in/fmachani
 
-**Professional Competencies**
-- Data Analysis
-- Data Visualization
-- Statistics
-- Machine Learning
-- Research Project Management
-- Analytical problem-solving
-- Good communication
-- Collaboration and Adaptability
+- **Programming & Databases:** Python (Pandas, NumPy), SQL, SQLAlchemy.
+- **Machine Learning:** Supervised & Unsupervised Learning (Regression, Classification, Clustering, PCA), Ensemble Methods, Predictive Modeling, Deep Learning, Neural Networks. 
+- **Data Analysis:** Statistical Modeling, Diagnostic Analytics, A/B testing & experimentation, EDA, Product analytics, Funnel & User Behavior Analysis, Marketing Analytics, Customer Segmentation, Sentiment Analysis, Text Classification.
+- **Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI, Tableau (Basic).
+- **Frameworks:** Scikit-learn, XGBoost, Catboost, TensorFlow.
+- **Tools:** Git, Google Colab, Microsoft Power Shell, Visual Studio Code.
 
-**Technical Skills**
-- Python (Pandas, Numpy)
-- Scikit-Learn
-- SQL
-- Power BI
-- TensorFlow
-- Microsoft Excel
-- R
