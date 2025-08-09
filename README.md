@@ -5,7 +5,7 @@
 
 - **Programming & Databases:** Python (Pandas, NumPy), SQL, SQLAlchemy.
 - **Machine Learning:** Supervised & Unsupervised Learning (Regression, Classification, Clustering, PCA), Ensemble Methods, Predictive Modeling, Deep Learning, Neural Networks. 
-- **Data Analysis:** Statistical Modeling, Diagnostic Analytics, A/B testing & experimentation, EDA, Product analytics, Funnel & User Behavior Analysis, Marketing Analytics, Customer Segmentation, Sentiment Analysis, Text Classification.
+- **Data Analysis:** Statistical Modeling, Diagnostic Analytics, A/B testing & experimentation, EDA, Product analytics, Marketing Analytics, Customer Segmentation, Customer Analysis, Sentiment Analysis, Text Classification.
 - **Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI, Tableau (Basic).
 - **Frameworks:** Scikit-learn, XGBoost, Catboost, TensorFlow.
 - **Tools:** Git, Google Colab, Microsoft Power Shell, Visual Studio Code.
