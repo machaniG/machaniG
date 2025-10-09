@@ -8,5 +8,5 @@
 - **Data Analysis:** Statistical Modeling, Diagnostic Analytics, A/B testing & experimentation, EDA, Product analytics, Marketing Analytics, Customer Segmentation, Customer Analysis, Sentiment Analysis, Text Classification.
 - **Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI, Tableau (Basic).
 - **Frameworks:** Scikit-learn, XGBoost, Catboost, TensorFlow.
-- **Tools:** Git, Google Colab, Microsoft Power Shell, Visual Studio Code.
+- **Tools:** Git, Google Colab, Microsoft Power Shell, Visual Studio Code, GitHub Actions.
 
