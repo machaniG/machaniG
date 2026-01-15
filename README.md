@@ -3,7 +3,7 @@
 - **Concrete example**
 - Same raw retail data, different stories tailored to product, marketing, and revenue stakeholders.
 
-  | Stakeholder | Question                      | Your skill            |
+| Stakeholder | Question                      | Your skill            |
 | ----------- | ----------------------------- | --------------------- |
 | Marketing   | Who should we retain?         | Customer segmentation |
 | Product     | Why are returns high?         | Return rate analysis  |
