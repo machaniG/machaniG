@@ -1,7 +1,8 @@
-- **I extract multiple decision-relevant insights from the same data and adapt analyses to different stakeholders.**
+### **I extract multiple decision-relevant insights from the same data and adapt analyses to different stakeholders.**
 
-- **Concrete example**
-- Same raw retail data, different stories tailored to product, marketing, and revenue stakeholders.
+**Concrete example**
+
+Same retail data, different stories tailored to product, marketing, and revenue stakeholders.
 
 | Stakeholder | Question                      | What I do             |
 | ----------- | ----------------------------- | --------------------- |
